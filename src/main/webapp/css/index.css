@@ -1,0 +1,12 @@
+.active-link {
+    background-color: rgba(213, 213, 213, 0.279);
+}
+.custom-placeholder::placeholder {
+    color: white; /* Màu của placeholder */
+    opacity: 0.5; /* Độ mờ của placeholder */
+    /* Các thuộc tính khác của placeholder */
+}
+.video:hover>a>div>img{
+    transform: scale(1.03);
+    transition-duration: 0.5s;
+}
